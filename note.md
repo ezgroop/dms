@@ -10,3 +10,4 @@ sudo apt-get upgrade
 sudo npm install --global yarn
 
 sudo npm install -g @angular/cli
+npm install
