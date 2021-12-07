@@ -8,10 +8,11 @@ sudo apt -y install nodejs
 sudo apt-get update
 sudo apt-get upgrade
 
+cd paperless-ng/src-ui
 sudo npm install --global yarn
 
 sudo npm install -g @angular/cli
-cd paperless-ng/src-ui
+
 npm install
 
 #create image
