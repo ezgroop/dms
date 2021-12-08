@@ -10,7 +10,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="9204248378636247318" datatype="html">
-        <source>Document <x id="PH" equiv-text="status.filename"/> was added to paperless.</source>
+        <source>Document <x id="PH" equiv-text="status.filename"/> was added.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">51</context>
@@ -38,7 +38,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="587031278561344416" datatype="html">
-        <source>Document <x id="PH" equiv-text="status.filename"/> is being processed by paperless.</source>
+        <source>Document <x id="PH" equiv-text="status.filename"/> is being processed.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">65</context>
@@ -395,14 +395,14 @@
         </context-group>
       </trans-unit>
       <trans-unit id="8765497970646365998" datatype="html">
-        <source>Hello <x id="PH" equiv-text="this.displayName"/>, welcome to Paperless-ng!</source>
+        <source>Hello <x id="PH" equiv-text="this.displayName"/>, welcome to Document Management Systems!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/dashboard/dashboard.component.ts</context>
           <context context-type="linenumber">33</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7016571167317583872" datatype="html">
-        <source>Welcome to Paperless-ng!</source>
+        <source>Welcome to Document Management Systems!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/dashboard/dashboard.component.ts</context>
           <context context-type="linenumber">35</context>
@@ -913,7 +913,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="41147374f427980a9f1a8cd5e3f4b1666e6f2418" datatype="html">
-        <source>Paperless-ng</source>
+        <source>Document Management Systems</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/app-frame/app-frame.component.html</context>
           <context context-type="linenumber">11</context>
@@ -1565,7 +1565,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="a0dc8218a6fcc5d11a4723ed127bd6be9d6d3ef3" datatype="html">
-        <source>Paperless is running! :)</source>
+        <source>Document Management Systems is running! :)</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/dashboard/widgets/welcome-widget/welcome-widget.component.html</context>
           <context context-type="linenumber">5</context>
