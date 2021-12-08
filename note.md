@@ -17,7 +17,7 @@ sudo npm install -g @angular/cli
 npm install
 
 #create image
-./complile-frontend.sh
+./complie-frontend.sh
 cd ..
 docker build . -t dms
 cd docker/compose/
