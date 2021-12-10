@@ -19,6 +19,6 @@ npm install
 #create image
 ./complie-frontend.sh
 cd ..
-docker build . -t dms
+docker build . -t dms --no-cache
 cd docker/compose/
 docker-compose up -d
